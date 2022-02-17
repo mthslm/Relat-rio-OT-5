@@ -1,0 +1,16 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Wikipédia 2021]{wiki:calor}
+\abntrefinfo{Wikipédia}{WIKIPéDIA}{2021}
+{WIKIPéDIA. \textbf{Calor específico --- Wikipédia{,} a enciclopédia
+  livre}. 2021.
+[Online; accessed 15-julho-2021].
+Dispon{\'\i}vel em:
+  \url{https://pt.wikipedia.org/w/index.php?title=Calor\_espec\%C3\%ADfico&oldid=61619901}.}
+
+\end{thebibliography}
